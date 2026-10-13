@@ -1,0 +1,19 @@
+{
+  "name": "menuro",
+  "displayName": "Menuro",
+  "version": "1.0.0",
+  "description": "Ask about your Menuro restaurant's orders, sales, menu and customers. Read-only, scoped to your outlets, with customer contact details masked.",
+  "author": {
+    "name": "Menuro",
+    "email": "info@menuro.io",
+    "url": "https://menuro.io"
+  },
+  "homepage": "https://menuro.io",
+  "repository": "https://github.com/devkart/menuro-mcp",
+  "license": "MIT",
+  "keywords": ["restaurant", "orders", "sales", "menu", "mcp"],
+  "icon": "./assets/logo.png",
+  "privacyPolicyUrl": "https://menuro.io/privacy",
+  "termsOfServiceUrl": "https://menuro.io/terms",
+  "supportUrl": "mailto:info@menuro.io"
+}

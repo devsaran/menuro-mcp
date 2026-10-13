@@ -1,0 +1,19 @@
+{
+  "name": "menuro-mcp",
+  "owner": {
+    "name": "Menuro",
+    "email": "info@menuro.io",
+    "url": "https://menuro.io"
+  },
+  "description": "The Menuro connector for Claude Code.",
+  "plugins": [
+    {
+      "name": "menuro",
+      "source": "./",
+      "description": "Read your Menuro orders, sales, menu and customers from Claude Code. Read-only.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["restaurant", "orders", "sales"]
+    }
+  ]
+}
