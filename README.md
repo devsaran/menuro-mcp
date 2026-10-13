@@ -6,7 +6,7 @@ plain language. The connector is read-only: it cannot change an order, a menu it
 ## Install
 
 ```bash
-claude plugin marketplace add devkart/menuro-mcp
+claude plugin marketplace add devsaran/menuro-mcp
 claude plugin install menuro@menuro-mcp
 ```
 

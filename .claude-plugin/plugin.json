@@ -9,7 +9,7 @@
     "url": "https://menuro.io"
   },
   "homepage": "https://menuro.io",
-  "repository": "https://github.com/devkart/menuro-mcp",
+  "repository": "https://github.com/devsaran/menuro-mcp",
   "license": "MIT",
   "keywords": ["restaurant", "orders", "sales", "menu", "mcp"],
   "icon": "./assets/logo.png",
